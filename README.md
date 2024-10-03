@@ -1,2 +1,2 @@
 # KhanAcademy-Clone
-making a minor change in main branch
+making a minor change in main brancha
